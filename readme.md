@@ -44,7 +44,7 @@ Sim, eles apaerecem em filmes em comum, como:  ['Who Framed Roger Rabbit', "Mick
 
 ____________________________________________
 e, está é a lista deles:
-Pateta::['An Extremely Goofy Movie', 'The Reluctant Dragon', 'Saludos Amigos', 'Fun and Fancy Free', 'Who Framed Roger Rabbit', 'The Little Mermaid', 'A Goofy Movie', 'An Extremely Goofy Movie', "Mickey's Magical Christmas: Snowed in at the House of Mouse", "Mickey's Once Upon a Christmas", "Mickey's House of Villains", 'Mickey, Donald, Goofy: The Three Musketeers', 'The Lion King 1½', "Mickey's Twice Upon a Christmas"]
+Pateta:['An Extremely Goofy Movie', 'The Reluctant Dragon', 'Saludos Amigos', 'Fun and Fancy Free', 'Who Framed Roger Rabbit', 'The Little Mermaid', 'A Goofy Movie', 'An Extremely Goofy Movie', "Mickey's Magical Christmas: Snowed in at the House of Mouse", "Mickey's Once Upon a Christmas", "Mickey's House of Villains", 'Mickey, Donald, Goofy: The Three Musketeers', 'The Lion King 1½', "Mickey's Twice Upon a Christmas"]
  "Mickey's Magical Christmas: Snowed in at the House of Mouse", "Mickey's Once Upon a Christmas", "Mickey's House of Villains", 'Mickey, Donald, Goofy: The Three Musketeers', 'The Lion King 1½', "Mickey's Twice Upon a Christmas"]
 ____________________________________________
 Minnie:['Who Framed Roger Rabbit', "Mickey's Once Upon a Christmas", "Mickey's Magical Christmas: Snowed in at the House of Mouse", "Mickey's House of Villains", 'Mickey, Donald, Goofy: The Three Musketeers', "Mickey's Twice Upon a Christmas", 'Saving Mr. Banks']
