@@ -39,6 +39,6 @@ else:
     print(f"Ops... they've not appeared in commum films")
 
 line = "\n____________________________________________\n"
-print(f"{line}and, that's the film list of them:\n{char1}: {film_list_c1}{line}{char2}: {film_list_c2}")
+print(f"{line}and, that's the film list of them:\n{char1}: {film_list_c1}{line}{char2}: {film_list_c2} ")
 
 
